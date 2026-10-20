@@ -1,0 +1,5 @@
+id,nombre,email,saldo
+1,Ana,usuario1@example.com,100000
+2,Carlos,usuario2@example.com,250000
+3,Laura,usuario3@example.com,150000
+4,Sofia,usuario4@example.com,300000

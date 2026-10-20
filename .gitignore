@@ -1,0 +1,57 @@
+﻿# Credenciales y secretos
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Frontend
+node_modules/
+dist/
+coverage/
+
+# Editores y sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Copias de seguridad
+*.backup
+*.backup-*
+
+# Archivos accidentales de PowerShell y respaldos
+apps/web/Set-Location
+apps/web/bool
+apps/web/cd
+apps/web/str
+apps/web/tuple[list[str]
+apps/web/type
+apps/web/web@0.0.0
+apps/web/npm.cmd.respaldo
+apps/web/vite.respaldo
+*.bak
+*.bak.*
+*.backup*
+*.respaldo
+*.integracion.bak
+*.recuperacion-*
+
+apps/web/tuple[list[str]
+apps/web/tuple[list[str]
+
+# Reportes generados localmente
+reports/*
+!reports/.gitkeep
+defects/*.csv
+/apps/web/tuple[list[str]
+
+/apps/web/tuple*
